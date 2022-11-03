@@ -1,11 +1,11 @@
 
-▀█▀ █▄ █ █▀ ▀█▀ ▄▀█ █   █   ▄▀█ ▀█▀ █ █▀█ █▄ █
-▄█▄ █ ▀█ ▄█  █  █▀█ █▄▄ █▄▄ █▀█  █  █ █▄█ █ ▀█
+▀█▀ █▄ █ █▀ ▀█▀ ▄▀█ █   █   ▄▀█ ▀█▀ █ █▀█ █▄ █  
+▄█▄ █ ▀█ ▄█  █  █▀█ █▄▄ █▄▄ █▀█  █  █ █▄█ █ ▀█  
 
 Just download the .exe and go!
 
-▛▖▄▀█ █▀ █▄▀   █▀ ▀█▀ █▀█ █▀ ▀▄▀
-▙▘█▀█ █▄ █ █   ▄█  █  █▄█ █   █
+▛▖▄▀█ █▀ █▄▀   █▀ ▀█▀ █▀█ █▀ ▀▄▀  
+▙▘█▀█ █▄ █ █   ▄█  █  █▄█ █   █   
 
 The version first of this game was made in my free time on a old version of scratch installed on the school computers i got the idea for the game in a book after a while in my games dev class i need a game to make for my SCQF level 5 so i decided to reuse the game for that (mid late '19 - early mid '21) 
 https://scratch.mit.edu/projects/505855396/.
