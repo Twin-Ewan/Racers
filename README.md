@@ -1,5 +1,5 @@
 ## *Installation*
-Just download the .exe and go!
+Just download the .exe and go! (You may need need to bypass Windows Safescreen by going to "Details" then "Run Anyways")
 
 ## *Backstory*
 
