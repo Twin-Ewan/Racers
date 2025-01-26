@@ -1,7 +1,3 @@
-# <ins> I lost this account! Please check [@Twin-Ewan](https://github.com/Twin-Ewan) instead </ins>
-
-
-
 ## *Installation*
 Just download the .exe and go! (You may need need to bypass Windows Safescreen by going to "Details" then "Run Anyways")
 
